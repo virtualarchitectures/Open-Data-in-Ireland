@@ -12,7 +12,7 @@ A list of sources of Open Data in Ireland
 
 ## Dublin
 - [Dublinked](https://data.smartdublin.ie/) - Open data for the Dublin region. Data is provided as part of the Smart Dublin initiative of the four Dublin Local Authorities. This project aims to engage with smart technology providers, researchers and citizens to solve challenges and improve city life.
-* [Administrative Boundaries](https://data.smartdublin.ie/dataset/dublin-city-council-administrative-area-maps)
+  * [Administrative Boundaries](https://data.smartdublin.ie/dataset/dublin-city-council-administrative-area-maps)
 
 ## Cork
 - [Cork Smart Gateway](http://data.corkcity.ie/) - The Smart Gateway aims to enhance the reputation of Cork as an attractive place to live, work, visit and invest. Here you will find Data all about Cork which is available in an open format for you to download, conduct research, develop web and mobile applications, design data visualisations and more.
