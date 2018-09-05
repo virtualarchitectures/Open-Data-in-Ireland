@@ -3,7 +3,8 @@ A list of sources of Open Data in Ireland
 
 ## Open Data
 - [Data.gov.ie](https://data.gov.ie/) - Ireland's Open Data portal: Promoting innovation and transparency through the publication of Irish Public Sector data in open, free and reusable formats.
-- [Central Statistics Office](https://www.cso.ie/en/databases/) - The Central Statistics Office (CSO) is Ireland's national statistical office and our purpose is to impartially collect, analyse and make available statistics about Ireland’s people, society and economy. Provides Linked Open Data for the 2011 Census. 
+- [StatCentral.ie](http://www.statcentral.ie/) - StatCentral is the portal to Ireland's Official Statistics. It provides information about statistics produced by government departments and state organisations. The site is maintained by the Central Statistics Office (CSO). Available data are organised by theme.
+- [Central Statistics Office (CSO)](https://www.cso.ie/en/databases/) - The Central Statistics Office (CSO) is Ireland's national statistical office and our purpose is to impartially collect, analyse and make available statistics about Ireland’s people, society and economy. Provides Linked Open Data for the 2011 Census.
 
 ## Spatial Data
 - [AIRO Data Store](http://airo.maynoothuniversity.ie/datastore) - The All-Island Research Observatory (AIRO) is based at Maynooth University within the National Institute for Regional and Spatial Analysis (NIRSA). The AIRO Data Store has been created by the team at AIRO and NIRSA as a means of making our working data more accessible to the public. Data is currently available as .csv and .shp format.
