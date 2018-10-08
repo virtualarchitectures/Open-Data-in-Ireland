@@ -1,5 +1,5 @@
 # Open-Data-in-Ireland
-A list of sources of Open Data in Ireland
+A list of sources of Open Data in Ireland covering both the Republic and the North.
 
 ## Open Data
 - [Data.gov.ie](https://data.gov.ie/) - Ireland's Open Data portal: Promoting innovation and transparency through the publication of Irish Public Sector data in open, free and reusable formats.
