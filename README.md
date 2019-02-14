@@ -1,4 +1,4 @@
-# Open-Data-in-Ireland
+# Open Data in Ireland
 A list of sources of Open Data in Ireland covering both the Republic and the North.
 
 ## Open Data
