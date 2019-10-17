@@ -16,6 +16,7 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 
 ## Transport Data
 - [Transport For Ireland](https://www.transportforireland.ie/transitData/PT_Data.html) - GTFS for for Irish Rail, Bus Eireann, Dublin Bus and Luas. Read the [General Transit Feed (GTFS)](https://gtfs.org) specification for further details.
+- [Irish Rail Realtime API](http://api.irishrail.ie/realtime/) - API provides the current location of train services from Iarnród Éireann's central signalling system, and the scheduled journey times from areas under local signalling control.
 
 # Cities
 Sources of Open Data for specific cities.
