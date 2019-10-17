@@ -14,6 +14,9 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [AIRO Data Store](http://airo.maynoothuniversity.ie/datastore) - The All-Island Research Observatory (AIRO) is based at Maynooth University within the National Institute for Regional and Spatial Analysis (NIRSA). The AIRO Data Store has been created by the team at AIRO and NIRSA as a means of making our working data more accessible to the public. Data is currently available as .csv and .shp format.
 - [Geoportal](https://www.geoportal.ie/geoportal/catalog/main/home.page) - This portal is a shared government resource that provides access to a network of spatial data from a wide variety of Irish public bodies and organisations for download and viewing. It has been created as part of the Irish Spatial Data Infrastructure (ISDI) project and is designed to facilitate the on-line sharing of spatial data according to the requirements of the Irish eGovernment Strategy and the EU INSPIRE Directive.
 
+## Transport Data
+- [Transport For Ireland](https://www.transportforireland.ie/transitData/PT_Data.html) - GTFS for for Irish Rail, Bus Eireann, Dublin Bus and Luas. Read the [General Transit Feed (GTFS)](https://www.transportforireland.ie/transitData/PT_Data.html) specification for further details.
+
 ## Dublin
 - [Dublinked](https://data.smartdublin.ie/) - Open data for the Dublin region. Data is provided as part of the Smart Dublin initiative of the four Dublin Local Authorities. This project aims to engage with smart technology providers, researchers and citizens to solve challenges and improve city life.
 
