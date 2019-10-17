@@ -8,13 +8,16 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [OpenDataNI](https://www.opendatani.gov.uk/) - Northern Ireland's Open Data Portal, developed by the Open Data Team as part of the Digital NI initiative. The portal has been created to facilitate easy access to Northern Ireland public sector data for both reuse and redistribution. The data that is available will not be of a sensitive or personal nature, but is the raw data that drives the public sector and its services.
 
 ## Spatial Data
+- [AIRO Data Store](http://airo.maynoothuniversity.ie/datastore) - The All-Island Research Observatory (AIRO) is based at Maynooth University within the National Institute for Regional and Spatial Analysis (NIRSA). The AIRO Data Store has been created by the team at AIRO and NIRSA as a means of making our working data more accessible to the public. Data is currently available as .csv and .shp format.
 - [OSI Open Data](https://data-osi.opendata.arcgis.com/) - Ordnance Survey Ireland are the official national mapping agency for the Republic of Ireland. The release of open data by the OSi supports the growth of the Data.gov.ie open data platform and initiative.
 - [Irish OpenStreetMap Community](https://www.openstreetmap.ie/) - OpenStreetMap Ireland as an entity, provides an advocate voice for the OpenStreetMap project on the island of Ireland, in relation to interacting with other Open initiatives. Members are involved in mapping all aspects of the island under an Open Licence. To join in, you can sign up for an account on [OpenStreetMap.org](https://www.openstreetmap.org/) and start mapping what is important to you.
 - [Irish Townlands](https://www.townlands.ie/) - A crowdsourcing initiative by the Irish OpenStreetMap Community which is mapping townland, civil parish & barony boundaries in Ireland. The townland system is of Gaelic origin, pre-dating the Norman invasion, and provides the smallest administrative divisions of land in Ireland. These in turn form the building blocks for higher-level administrative units. For this reason the project provides a means of using OSM data for a more fine grained level of statistical analysis than is possible with current open data for city and county boundaries. See the [Ireland/Mapping Townlands](https://wiki.openstreetmap.org/wiki/Ireland/Mapping_Townlands) wiki for further details.
-- [AIRO Data Store](http://airo.maynoothuniversity.ie/datastore) - The All-Island Research Observatory (AIRO) is based at Maynooth University within the National Institute for Regional and Spatial Analysis (NIRSA). The AIRO Data Store has been created by the team at AIRO and NIRSA as a means of making our working data more accessible to the public. Data is currently available as .csv and .shp format.
 - [Geoportal](https://www.geoportal.ie/geoportal/catalog/main/home.page) - This portal is a shared government resource that provides access to a network of spatial data from a wide variety of Irish public bodies and organisations for download and viewing. It has been created as part of the Irish Spatial Data Infrastructure (ISDI) project and is designed to facilitate the on-line sharing of spatial data according to the requirements of the Irish eGovernment Strategy and the EU INSPIRE Directive.
 
 ## Transport Data
+- [Transport Infrastructure Ireland Open Data Portal](http://data.tii.ie/) - This site hosts a range of data sets published by Transport Infrastructure Ireland.
+
+#### Datasets
 - [Transport For Ireland](https://www.transportforireland.ie/transitData/PT_Data.html) - GTFS for for Irish Rail, Bus Eireann, Dublin Bus and Luas. Read the [General Transit Feed (GTFS)](https://gtfs.org) specification for further details.
 - [Irish Rail Realtime API](http://api.irishrail.ie/realtime/) - API provides the current location of train services from Iarnród Éireann's central signalling system, and the scheduled journey times from areas under local signalling control.
 
@@ -23,8 +26,11 @@ Sources of Open Data for specific cities.
 
 ## Dublin
 - [Dublinked](https://data.smartdublin.ie/) - Open data for the Dublin region. Data is provided as part of the Smart Dublin initiative of the four Dublin Local Authorities. This project aims to engage with smart technology providers, researchers and citizens to solve challenges and improve city life.
+
+##### Datasets
 - [JCDeceaux Bike API](https://developer.jcdecaux.com/#/opendata) - International bike scheme API which can be queried for results from the Dublinbikes scheme. Requires an API key.
 - [Dublinbikes BETA API by Derilinx](https://dublinbikes.staging.derilinx.com/api/v1/resources/ui/) - Dublinbikes BETA API by Derilinx which provides bike data without requiring authentication. Disclaimer: This API is a work in progress and it is served 'as is'.
+- [Luas Forecasting API](http://luasforecasts.rpa.ie/analysis/view.aspx) - A near real-time API for estimated time of arrival of trams at each of the stops along the Red and Green Lines.
 - [Sonitus Systems Dublin City Noise API](http://dublincitynoise.sonitussystems.com/applications/api/api-doc.html) - Sonitus Systems API providing access to sound level readings from the Dublin City Council sound level monitoring network.
  
 ## Cork
