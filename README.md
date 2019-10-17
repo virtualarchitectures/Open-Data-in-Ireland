@@ -17,13 +17,16 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 ## Transport Data
 - [Transport For Ireland](https://www.transportforireland.ie/transitData/PT_Data.html) - GTFS for for Irish Rail, Bus Eireann, Dublin Bus and Luas. Read the [General Transit Feed (GTFS)](https://gtfs.org) specification for further details.
 
+# Cities
+Sources of Open Data for specific cities.
+
 ## Dublin
 - [Dublinked](https://data.smartdublin.ie/) - Open data for the Dublin region. Data is provided as part of the Smart Dublin initiative of the four Dublin Local Authorities. This project aims to engage with smart technology providers, researchers and citizens to solve challenges and improve city life.
 
 ## Cork
 - [Cork Smart Gateway](http://data.corkcity.ie/) - The Smart Gateway aims to enhance the reputation of Cork as an attractive place to live, work, visit and invest. Here you will find Data all about Cork which is available in an open format for you to download, conduct research, develop web and mobile applications, design data visualisations and more.
 
-## Other Useful Links
+# Other Useful Links
 - [GeoHive](https://geohive.ie/) - GeoHive is an initiative by Ordnance Survey Ireland to provide easy access to publically available spatial data. Data can be viewed online with the interactive MapViewer application or accessed via endpoints in one of the following formats: REST, OGC (WMS) or KML.
 - [IRLOGI](http://www.irlogi.ie/) - The Irish Organisation for Geographic Information (IRLOGI) is the umbrella organisation for the geographical information industry in Ireland and is a member of EUROGI – the European umbrella organisation for geographical information. IRLOGI was formed in 1995 to represent the Irish GI community. Its mission is to stimulate the development and effective use of Geographic Information in Ireland. The website includes useful links to different sources of geospatial data in Ireland.
 - [UCD Library Guide to Spatial Data for Ireland](http://libguides.ucd.ie/gisguide/FindSpatialData) - University College Dublin provide a guide for finding both spatial and statistical datasets for Ireland.
