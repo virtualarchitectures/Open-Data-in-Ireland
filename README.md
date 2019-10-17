@@ -23,7 +23,10 @@ Sources of Open Data for specific cities.
 
 ## Dublin
 - [Dublinked](https://data.smartdublin.ie/) - Open data for the Dublin region. Data is provided as part of the Smart Dublin initiative of the four Dublin Local Authorities. This project aims to engage with smart technology providers, researchers and citizens to solve challenges and improve city life.
-
+- [JCDeceaux Bike API](https://developer.jcdecaux.com/#/opendata) - International bike scheme API which can be queried for results from the Dublinbikes scheme. Requires an API key.
+- [Dublinbikes BETA API by Derilinx](https://dublinbikes.staging.derilinx.com/api/v1/resources/ui/) - Dublinbikes BETA API by Derilinx which provides bike data without requiring authentication. Disclaimer: This API is a work in progress and it is served 'as is'.
+- [Sonitus Systems Dublin City Noise API](http://dublincitynoise.sonitussystems.com/applications/api/api-doc.html) - Sonitus Systems API providing access to sound level readings from the Dublin City Council sound level monitoring network.
+ 
 ## Cork
 - [Cork Smart Gateway](http://data.corkcity.ie/) - The Smart Gateway aims to enhance the reputation of Cork as an attractive place to live, work, visit and invest. Here you will find Data all about Cork which is available in an open format for you to download, conduct research, develop web and mobile applications, design data visualisations and more.
 
