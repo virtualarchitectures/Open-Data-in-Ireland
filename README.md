@@ -34,6 +34,10 @@ Sources of Open Data for specific cities.
 - [JCDeceaux Bike API](https://developer.jcdecaux.com/#/opendata) - International bike scheme API which can be queried for results from the Dublinbikes scheme. Requires an API key.
 - [Dublinbikes BETA API by Derilinx](https://dublinbikes.staging.derilinx.com/api/v1/resources/ui/) - Dublinbikes BETA API by Derilinx which provides bike data without requiring authentication. Disclaimer: This API is a work in progress and it is served 'as is'.
 - [Sonitus Systems Dublin City Noise API](http://dublincitynoise.sonitussystems.com/applications/api/api-doc.html) - Sonitus Systems API providing access to sound level readings from the Dublin City Council sound level monitoring network.
+
+#### Intermittent / Offline
+- [Dublin City Council Traffic Cameras](https://www.dublincity.ie/dublintraffic/) - Central Dublin Traffic Cam feeds. [NOTE: Offline since May 2017]
+- [Dublin Multi Story Car Parking Space Availability](https://data.smartdublin.ie/dataset/multi-story-car-parking-space-availability) - Multi Story Car Parking Space Availability Dublin City Councils 'Live Parking Spaces' service gathers information from car parks around Dublin to show you what parking spaces are available. Updated every 5 mins. [NOTE: Service via XML in intermittent as of 18/10/2019]
  
 ## Cork
 - [Cork Smart Gateway](http://data.corkcity.ie/) - The Smart Gateway aims to enhance the reputation of Cork as an attractive place to live, work, visit and invest. Here you will find Data all about Cork which is available in an open format for you to download, conduct research, develop web and mobile applications, design data visualisations and more.
