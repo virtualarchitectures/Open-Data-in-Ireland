@@ -4,7 +4,6 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 ## Open Data
 - [Data.gov.ie](https://data.gov.ie/) - Ireland's Open Data portal: Promoting innovation and transparency through the publication of Irish Public Sector data in open, free and reusable formats.
 - [Central Statistics Office (CSO)](https://www.cso.ie/en/databases/) - The Central Statistics Office (CSO) is Ireland's national statistical office and our purpose is to impartially collect, analyse and make available statistics about Ireland’s people, society and economy. Provides Linked Open Data for the 2011 Census.
-- [StatCentral.ie](http://www.statcentral.ie/) - StatCentral is the portal to Ireland's Official Statistics. It provides information about statistics produced by government departments and state organisations. The site is maintained by the Central Statistics Office (CSO). Available data are organised by theme.
 - [OpenDataNI](https://www.opendatani.gov.uk/) - Northern Ireland's Open Data Portal, developed by the Open Data Team as part of the Digital NI initiative. The portal has been created to facilitate easy access to Northern Ireland public sector data for both reuse and redistribution. The data that is available will not be of a sensitive or personal nature, but is the raw data that drives the public sector and its services.
 
 ## Spatial Data
