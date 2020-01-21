@@ -13,6 +13,9 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [Irish Townlands](https://www.townlands.ie/) - A crowdsourcing initiative by the Irish OpenStreetMap Community which is mapping townland, civil parish & barony boundaries in Ireland. The townland system is of Gaelic origin, pre-dating the Norman invasion, and provides the smallest administrative divisions of land in Ireland. These in turn form the building blocks for higher-level administrative units. For this reason the project provides a means of using OSM data for a more fine grained level of statistical analysis than is possible with current open data for city and county boundaries. See the [Ireland/Mapping Townlands](https://wiki.openstreetmap.org/wiki/Ireland/Mapping_Townlands) wiki for further details.
 - [Geoportal](https://www.geoportal.ie/geoportal/catalog/main/home.page) - This portal is a shared government resource that provides access to a network of spatial data from a wide variety of Irish public bodies and organisations for download and viewing. It has been created as part of the Irish Spatial Data Infrastructure (ISDI) project and is designed to facilitate the on-line sharing of spatial data according to the requirements of the Irish eGovernment Strategy and the EU INSPIRE Directive.
 
+## Property Data
+- [Residential Property Price Register](https://www.propertypriceregister.ie/) - The Property Services Regulatory Authority (PSRA) provide a register of all residential properties purchased in Ireland since the 1st January 2010. The dataset includes address, price and date of sale. Note that the Register is not intended as a "Property Price Index".
+
 ## Transport Data
 - [Transport Infrastructure Ireland Open Data Portal](http://data.tii.ie/) - This site hosts a range of data sets published by Transport Infrastructure Ireland.
 
