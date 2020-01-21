@@ -20,6 +20,10 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [Transport For Ireland](https://www.transportforireland.ie/transitData/PT_Data.html) - GTFS for for Irish Rail, Bus Eireann, Dublin Bus and Luas. Read the [General Transit Feed (GTFS)](https://gtfs.org) specification for further details.
 - [Irish Rail Realtime API](http://api.irishrail.ie/realtime/) - API provides the current location of train services from Iarnród Éireann's central signalling system, and the scheduled journey times from areas under local signalling control.
 
+## Environment Data
+- [Environment Protection Agency (EPA)](https://www.epa.ie/) - The EPA provide a range of reports and datasets via their [GeoProtal](http://gis.epa.ie/). The [EPA Maps](https://gis.epa.ie/EPAMaps/) portal provides a useful visualisation of available data sources.
+- [OPW Water Levels](waterlevel.ie) - Website providing real-time access to the Office of Public Works (OPW) national network of hydrometric monitors. The sites features a [Real-Time Water Levels API](http://waterlevel.ie/page/api/) providing endpoints for locations of monitoring stations and latest sensor readings in GeoJSON format. Archive data for the day, week and month, can be downloaded as CSV. Alternatively visitors are directed to the OPW's [Hydro-Data](http://waterlevel.ie/hydro-data/home.html) website for access to archival data.
+
 # Cities
 Sources of Open Data for specific cities.
 
