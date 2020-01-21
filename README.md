@@ -21,8 +21,8 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [Irish Rail Realtime API](http://api.irishrail.ie/realtime/) - API provides the current location of train services from Iarnród Éireann's central signalling system, and the scheduled journey times from areas under local signalling control.
 
 ## Environment Data
-- [Environment Protection Agency (EPA)](https://www.epa.ie/) - The EPA provide a range of reports and datasets via their [GeoProtal](http://gis.epa.ie/). The [EPA Maps](https://gis.epa.ie/EPAMaps/) portal provides a useful visualisation of available data sources.
-- [OPW Water Levels](waterlevel.ie) - Website providing real-time access to the Office of Public Works (OPW) national network of hydrometric monitors. The sites features a [Real-Time Water Levels API](http://waterlevel.ie/page/api/) providing endpoints for locations of monitoring stations and latest sensor readings in GeoJSON format. Archive data for the day, week and month, can be downloaded as CSV. Alternatively visitors are directed to the OPW's [Hydro-Data](http://waterlevel.ie/hydro-data/home.html) website for access to archival data.
+- [Environment Protection Agency (EPA)](https://www.epa.ie/) - The EPA provide a range of reports and datasets via their [GeoPortal](http://gis.epa.ie/). The [EPA Maps](https://gis.epa.ie/EPAMaps/) portal provides a useful visualisation of available data sources.
+- [OPW Water Levels](waterlevel.ie) - Website providing real-time access to the Office of Public Works (OPW) national network of hydrometric monitors. The sites features a [Real-Time Water Levels API](http://waterlevel.ie/page/api/) providing endpoints for locations of monitoring stations and latest sensor readings in GeoJSON format. Archive data for the day, week and month, can be downloaded as CSV. Archival data can be obtained via OPW's [Hydro-Data](http://waterlevel.ie/hydro-data/home.html) website.
 
 # Cities
 Sources of Open Data for specific cities.
