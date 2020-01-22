@@ -17,7 +17,7 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [Residential Property Price Register](https://www.propertypriceregister.ie/) - The Property Services Regulatory Authority (PSRA) provide a register of all residential properties purchased in Ireland since the 1st January 2010. The dataset includes address, price and date of sale. Note that the Register is not intended as a "Property Price Index".
 
 ## Transport Data
-- [Transport Infrastructure Ireland Open Data Portal](http://data.tii.ie/) - This site hosts a range of data sets published by Transport Infrastructure Ireland.
+- [Transport Infrastructure Ireland Open Data Portal](http://data.tii.ie/) - This site hosts a range of data sets published by Transport Infrastructure Ireland. The TII also provide a website featuring live traffic information including travel bulletins and images from their national network of motorway traffic cameras [https://www.tiitraffic.ie/](https://www.tiitraffic.ie/). 
 
 #### Select Datasets
 - [Transport For Ireland](https://www.transportforireland.ie/transitData/PT_Data.html) - GTFS for for Irish Rail, Bus Eireann, Dublin Bus and Luas. Read the [General Transit Feed (GTFS)](https://gtfs.org) specification for further details.
@@ -26,6 +26,7 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 ## Environment Data
 - [Environment Protection Agency (EPA)](https://www.epa.ie/) - The EPA provide a range of reports and datasets via their [GeoPortal](http://gis.epa.ie/). The [EPA Maps](https://gis.epa.ie/EPAMaps/) portal provides a useful visualisation of available data sources.
 - [OPW Water Levels](waterlevel.ie) - Website providing real-time access to the Office of Public Works (OPW) national network of hydrometric monitors. The sites features a [Real-Time Water Levels API](http://waterlevel.ie/page/api/) providing endpoints for locations of monitoring stations and latest sensor readings in GeoJSON format. Archive data for the day, week and month, can be downloaded as CSV. Archival data can be obtained via OPW's [Hydro-Data](http://waterlevel.ie/hydro-data/home.html) website.
+- [Marine Institute Data Centre](https://www.marine.ie/Home/site-area/data-services/search-marine-data/access-data) - The Marine Institute provide a range of maritime data. They also provide the [Irish National Tide Gauge Network Real Time Data](http://data.marine.ie/geonetwork/srv/eng/catalog.search#/metadata/ie.marine.data:dataset.2774) which can be queries via an online form wrapping the underlying [Irish National Tide Gauge Network API](https://erddap.marine.ie/erddap/tabledap/IrishNationalTideGaugeNetwork.html).
 
 # Cities
 Sources of Open Data for specific cities.
