@@ -42,6 +42,7 @@ Sources of Open Data for specific cities.
 - [Real-time Passenger Information (RTPI) for Dublin Bus, Bus Eireann, Luas and Irish rail](https://data.smartdublin.ie/dataset/real-time-passenger-information-rtpi-for-dublin-bus-bus-eireann-luas-and-irish-rail) - Main page on Dublinked for the real-time transport information. Provides links to Transport For Ireland GTFS and Irish Rail Realtime API [see [Transport Data](https://github.com/virtualarchitectures/Open-Data-in-Ireland#transport-data) above]. Also provides links to Dublin Bus Realtime API and associated documentation. 
   - [Dublin Bus Realtime API Specification](https://data.smartdublin.ie/dataset/c9df9a0b-d17a-40ff-a5d4-01da0cf08617/resource/4b9f2c4f-6bf5-4958-a43a-f12dab04cf61/download/rtpirestapispecification.pdf) - The document describes RTPI REST Web Services API interface that will be available to retrieve real time bus information, timetables and bus stops.
 - [Luas Forecasting API](http://luasforecasts.rpa.ie/analysis/view.aspx) - A near real-time API for estimated time of arrival of trams at each of the stops along the Red and Green Lines.
+- [Dublin Multi Story Car Parking Space Availability](https://data.smartdublin.ie/dataset/multi-story-car-parking-space-availability) - Multi Story Car Parking Space Availability Dublin City Councils 'Live Parking Spaces' service gathers information from car parks around Dublin to show you what parking spaces are available. Updated every 5 mins.
 - [JCDeceaux Bike API](https://developer.jcdecaux.com/#/opendata) - International bike scheme API which can be queried for results from the Dublinbikes scheme. Requires an API key.
 - [Dublinbikes BETA API by Derilinx](https://dublinbikes.staging.derilinx.com/api/v1/resources/ui/) - Dublinbikes BETA API by Derilinx which provides bike data without requiring authentication. Disclaimer: This API is a work in progress and it is served 'as is'.
 - [Sonitus Systems Dublin City Noise API](http://dublincitynoise.sonitussystems.com/applications/api/api-doc.html) - Sonitus Systems API providing access to sound level readings from the Dublin City Council sound level monitoring network. 
@@ -50,7 +51,6 @@ Sources of Open Data for specific cities.
 
 #### Intermittent / Offline
 - [Dublin City Council Traffic Cameras](https://www.dublincity.ie/dublintraffic/) - Central Dublin Traffic Cam feeds. [NOTE: Offline since May 2017]
-- [Dublin Multi Story Car Parking Space Availability](https://data.smartdublin.ie/dataset/multi-story-car-parking-space-availability) - Multi Story Car Parking Space Availability Dublin City Councils 'Live Parking Spaces' service gathers information from car parks around Dublin to show you what parking spaces are available. Updated every 5 mins. [NOTE: Service via XML was intermittent as of 18/10/2019]
  
 ## Cork
 - [Cork Smart Gateway](http://data.corkcity.ie/) - The Smart Gateway aims to enhance the reputation of Cork as an attractive place to live, work, visit and invest. Here you will find Data all about Cork which is available in an open format for you to download, conduct research, develop web and mobile applications, design data visualisations and more.
