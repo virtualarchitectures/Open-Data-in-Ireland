@@ -32,6 +32,9 @@ A list of sources of Open Data in Ireland covering both the Republic and the Nor
 - [OPW Water Levels](waterlevel.ie) - Website providing real-time access to the Office of Public Works (OPW) national network of hydrometric monitors. The sites features a [Real-Time Water Levels API](http://waterlevel.ie/page/api/) providing endpoints for locations of monitoring stations and latest sensor readings in GeoJSON format. Archive data for the day, week and month, can be downloaded as CSV. Archival data can be obtained via OPW's [Hydro-Data](http://waterlevel.ie/hydro-data/home.html) website.
 - [Marine Institute Data Centre](https://www.marine.ie/Home/site-area/data-services/search-marine-data/access-data) - The Marine Institute provide a range of maritime data including a real-time feed of data from the [Irish National Tide Gauge Network API](https://erddap.marine.ie/erddap/tabledap/IrishNationalTideGaugeNetwork.html).
 
+## Health And Wellbeing
+- [HSE Patients awaiting admission (TrolleyGAR)](https://www.hse.ie/eng/services/campaigns/trolleygar.html) - Three times daily at 8 a.m., 2 p.m. and 8 p.m. acute hospitals report the number of patients awaiting admission to an inpatient hospital bed. The system known as TrolleyGAR enables daily monitoring of ED performance and helps trigger the hospitals’ response during busy periods. Gar- refers to Green Amber Red and > 9 hrs refers to the number of patients waiting over 9 hours on a hospital trolley for admission to a ward. Daily data for a particular date can be accessed using the [TrolleyGAR](http://137.191.241.85/ed/) webform. 
+
 # Cities
 Sources of Open Data for specific cities.
 
