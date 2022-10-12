@@ -20,6 +20,9 @@ Discovery Programme; Transport Infrastructure Ireland, New York University. The 
 ## Property Data
 - [Residential Property Price Register](https://www.propertypriceregister.ie/) - The Property Services Regulatory Authority (PSRA) provide a register of all residential properties purchased in Ireland since the 1st January 2010. The dataset includes address, price and date of sale. Note that the Register is not intended as a "Property Price Index".
 
+## Energy Data
+- [SEAI National BER Research Tool](https://ndber.seai.ie/BERResearchTool/ber/search.aspx) - The Sustainable Energy Authority of Ireland (SEAI) administer the BER certificate scheme which indicates the energy performance for buildings. The BER certificate indicates the annual primary energy usage and carbon dioxide emissions associated with the provision of space heating, water heating, ventilation and lighting to the dwelling. The BER Research Tool provides the data for download in a tabular, text-based format.
+
 ## Transport Data
 - [Transport Infrastructure Ireland Open Data Portal](http://data.tii.ie/) - This site hosts a range of data sets published by Transport Infrastructure Ireland. The TII also provide the live [TII Traffic](https://www.tiitraffic.ie/) website which includes travel bulletins and images from their national network of motorway traffic cameras.
 
