@@ -44,7 +44,7 @@ Discovery Programme; Transport Infrastructure Ireland, New York University. The 
 - [INMO Trolley Watch](https://www.inmo.ie/Trolley_Ward_Watch) - Every morning at 8am, members of the Irish Nurses and Midwives Organisation (INMO) count how many patients are waiting in the Emergency Department for a bed and how many are waiting in wards elsewhere in the hospital. The INMO started Trolley Watch in 2004.
 
 ## Business Data
-- [Companies Registration Office (CRO)](https://www.cro.ie/en-ie/) - The Companies Registration Office (CRO) is the central repository of public statutory information on Irish companies and business names. CRO provide a Rest API [CRO Open Services](https://services.cro.ie/) for company searches which returns company names, addresses, Eircodes, registration dates and statuses.
+- [Companies Registration Office (CRO)](https://www.cro.ie/en-ie/) - The Companies Registration Office (CRO) is the central repository of public statutory information on Irish companies and business names. CRO provide a RESTful API for company searches called [CRO Open Services](https://services.cro.ie/) which returns company names, addresses, Eircodes, registration dates and statuses.
 
 # Cities
 Sources of Open Data for specific cities.
