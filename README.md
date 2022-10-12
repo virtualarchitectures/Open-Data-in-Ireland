@@ -43,6 +43,9 @@ Discovery Programme; Transport Infrastructure Ireland, New York University. The 
 - [HSE Patients awaiting admission (TrolleyGAR)](https://www.hse.ie/eng/services/campaigns/trolleygar.html) - Three times daily at 8 a.m., 2 p.m. and 8 p.m. acute hospitals report the number of patients awaiting admission to an inpatient hospital bed. The system known as TrolleyGAR (Green/Amber/Red) enables daily monitoring of ED performance and helps trigger the hospitals’ response during busy periods. Daily data can be accessed by date using the [TrolleyGAR](http://137.191.241.85/ed/) webform.
 - [INMO Trolley Watch](https://www.inmo.ie/Trolley_Ward_Watch) - Every morning at 8am, members of the Irish Nurses and Midwives Organisation (INMO) count how many patients are waiting in the Emergency Department for a bed and how many are waiting in wards elsewhere in the hospital. The INMO started Trolley Watch in 2004.
 
+## Business Data
+- [Companies Registration Office (CRO)](https://www.cro.ie/en-ie/) - The Companies Registration Office (CRO) is the central repository of public statutory information on Irish companies and business names. CRO provide a Rest API [CRO Open Services](https://services.cro.ie/) for company searches which returns company names, addresses, Eircodes, registration dates and statuses.
+
 # Cities
 Sources of Open Data for specific cities.
 
